@@ -29,8 +29,8 @@ output = render('JOKER', colors=['white', 'blue'], align='center')
 print (output)
 JOK(m+f"\033[1;32m\n                  『ᴍᴀᴅᴇ ʙʏ : JOKER ™ \n                         ᴛᴇʟᴇɢʀᴀᴍ: @X1_H9 \n                            ᴄʜᴀɴɴᴇʟ : @TEAM_JO  』", 0.07, True)
 JOK(c+f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━", 0.07, True)
-bot = '7104470318:AAF2JZBY7xfz_X3MQMjYufZuXXmGbWr1YNc'
-acc = '5705487207'
+bot = '6362717551:AAG5yExgcHkJns-4DsJZuCGZG3sXncQJ-Z4'
+acc = '5957072350'
 def load_tokens(filename):
   with open(filename, 'r') as file:
       return [line.strip() for line in file]
